@@ -9,11 +9,10 @@ The application demonstrates clean UI implementation, form validation, protected
 ## 🔗 Live Demo & Repository
 
 - **Live Demo (Netlify):**  
-  👉 https://YOUR-NETLIFY-LINK.netlify.app
+  👉 https://xd-app.netlify.app/
 
 - **GitHub Repository:**  
-  👉 https://github.com/YOUR-USERNAME/xd-app
-
+  👉 https://github.com/Arun1414-tech/xd-app
 ---
 
 ## 🛠️ Tech Stack
